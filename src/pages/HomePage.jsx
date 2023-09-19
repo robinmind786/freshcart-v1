@@ -6,6 +6,7 @@ import Major from "../components/Major";
 import Row from "../components/Row";
 import { details } from "../utils/constans";
 import Img from "../components/Img";
+
 import Font from "../components/Font";
 
 const HomePage = () => {
