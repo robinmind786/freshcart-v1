@@ -452,102 +452,100 @@ export const categories = [
     title: "Categories",
     sub: [
       {
-        id: 1,
-        col: "col1",
+        id: 2,
         sub: [
           {
-            id: 1.1,
+            id: 2.1,
             text: "Vegetables & Fruits",
             link: "/shop",
           },
           {
-            id: 1.2,
+            id: 2.2,
             text: "Breakfast & instant food",
             link: "/shop",
           },
           {
-            id: 1.3,
+            id: 2.3,
             text: "Bakery & Biscuits",
             link: "/shop",
           },
           {
-            id: 1.4,
+            id: 2.4,
             text: "Atta, rice & dal",
             link: "/shop",
           },
           {
-            id: 1.5,
+            id: 2.5,
             text: "Sauces & spreads",
             link: "/shop",
           },
           {
-            id: 1.6,
+            id: 2.6,
             text: "Organic & gourmet",
             link: "/shop",
           },
           {
-            id: 1.7,
+            id: 2.7,
             text: "Baby care",
             link: "/shop",
           },
           {
-            id: 1.8,
+            id: 2.8,
             text: "Cleaning essentials",
             link: "/shop",
           },
           {
-            id: 1.9,
+            id: 2.9,
             text: "Personal care",
             link: "/shop",
           },
         ],
       },
       {
-        id: 2,
-        col: "col1",
+        id: 3,
         sub: [
           {
-            id: 2.1,
+            id: 3.1,
             text: "Dairy, bread & eggs",
             link: "/shop",
           },
           {
-            id: 2.2,
+            id: 3.2,
             text: "Cold drinks & juices",
             link: "/shop",
           },
           {
-            id: 2.3,
+            id: 3.3,
             text: "Tea, coffee & drinks",
             link: "/shop",
           },
           {
-            id: 2.4,
+            id: 3.4,
             text: "Masala, oil & more",
             link: "/shop",
           },
           {
-            id: 2.5,
+            id: 3.5,
             text: "Chicken, meat & fish",
             link: "/shop",
           },
           {
-            id: 2.6,
+            id: 3.6,
             text: "Paan corner",
             link: "/shop",
           },
           {
-            id: 2.7,
+            id: 3.7,
             text: "Pharma & wellness",
             link: "/shop",
           },
           {
-            id: 2.8,
+            id: 3.8,
             text: "Home & office",
             link: "/shop",
           },
           {
-            id: 2.9,
+            id: 3.9,
             text: "Pet care",
             link: "/shop",
           },
@@ -557,7 +555,7 @@ export const categories = [
   },
 ];
 
-export const footer = [
+export const footers = [
   {
     id: 1,
     title: "Get to know us",
