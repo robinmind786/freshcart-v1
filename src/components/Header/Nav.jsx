@@ -1,4 +1,4 @@
-import { navLinks } from "../utils/constans";
+import { navLinks } from "../../utils/constans";
 import { NavItem } from "./Index";
 
 const Nav = () => {

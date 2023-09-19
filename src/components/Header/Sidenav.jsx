@@ -1,4 +1,4 @@
-import { useProductsContext } from "../contexts/products_context";
+import { useProductsContext } from "../../contexts/products_context";
 import { DepartmentsAll, LocationButton, Logo, Nav, Search } from "./Index";
 
 const Sidenav = () => {

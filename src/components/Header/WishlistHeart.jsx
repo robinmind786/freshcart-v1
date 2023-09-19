@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import heart from "../assets/heart.svg";
+import heart from "../../assets/heart.svg";
 import WishlistPill from "./WishlistPill";
 
 const WishlistHeart = () => {

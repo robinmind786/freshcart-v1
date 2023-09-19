@@ -1,4 +1,4 @@
-import { departments } from "../utils/constans";
+import { departments } from "../../utils/constans";
 import { DepartmentButton, Dropdown } from "./Index";
 
 const DepartmentsAll = () => {

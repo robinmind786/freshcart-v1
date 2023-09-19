@@ -1,8 +1,8 @@
 import { useRef, useState } from "react";
-import { langs } from "../utils/constans";
 import { Container, Row } from "./Index";
 import { Link } from "react-router-dom";
-import { useProductsContext } from "../contexts/products_context";
+import { useProductsContext } from "../../contexts/products_context";
+import { langs } from "../../utils/constans";
 
 const HeaderTop = () => {
   const langRef = useRef();

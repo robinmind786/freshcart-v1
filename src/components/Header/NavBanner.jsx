@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import bannger from "../assets/images/banner/menu-banner.jpg";
+import bannger from "../../assets/images/banner/menu-banner.jpg";
 
 const NavBanner = () => {
   return (

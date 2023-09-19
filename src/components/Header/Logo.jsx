@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
-import logo from "../assets/images/logo/freshcart-logo.svg";
-import { useProductsContext } from "../contexts/products_context";
+import logo from "../../assets//images/logo/freshcart-logo.svg";
+import { useProductsContext } from "../../contexts/products_context";
 
 const Logo = ({ children, className = "" }) => {
   const { sidenavClose } = useProductsContext();

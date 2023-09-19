@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import user from "../assets/user.svg";
+import user from "../../assets/user.svg";
 
 const WishlistUser = () => {
   return (

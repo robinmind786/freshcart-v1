@@ -1,4 +1,4 @@
-import { useProductsContext } from "../contexts/products_context";
+import { useProductsContext } from "../../contexts/products_context";
 import { Container, Sidenav } from "./Index";
 
 const Navbar = () => {

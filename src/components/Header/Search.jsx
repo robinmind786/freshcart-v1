@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import search from "../assets/search.svg";
+import search from "../../assets/search.svg";
 
 const Search = ({
   children,

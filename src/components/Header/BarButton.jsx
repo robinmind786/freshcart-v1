@@ -1,5 +1,5 @@
-import bar from "../assets/bar.svg";
-import { useProductsContext } from "../contexts/products_context";
+import bar from "../../assets/bar.svg";
+import { useProductsContext } from "../../contexts/products_context";
 import Backdrop from "./Backdrop";
 
 const BarButton = () => {

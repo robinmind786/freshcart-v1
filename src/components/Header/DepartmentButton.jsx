@@ -1,4 +1,4 @@
-import grid from "../assets/grid.svg";
+import grid from "../../assets/grid.svg";
 
 const DepartmentButton = () => {
   return (

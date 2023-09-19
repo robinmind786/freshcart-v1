@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import PropTypes from "prop-types";
 import { Dropdown, DropdwonMega } from "./Index";
-import { useProductsContext } from "../contexts/products_context";
+import { useProductsContext } from "../../contexts/products_context";
 
 const NavItem = ({ text, link, subLinks, subMega }) => {
   const { sidenavClose } = useProductsContext();

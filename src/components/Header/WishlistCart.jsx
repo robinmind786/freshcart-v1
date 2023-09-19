@@ -1,4 +1,4 @@
-import cart from "../assets/cart.svg";
+import cart from "../../assets/cart.svg";
 import { Link } from "react-router-dom";
 import { WishlistPill } from "./Index";
 
