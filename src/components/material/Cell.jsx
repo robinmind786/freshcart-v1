@@ -1,9 +1,11 @@
 import PropTypes from "prop-types";
 
-const Cell = ({ children, className }) => {
+const Cell = ({ children, className, desgin }) => {
   return (
     <>
-      <div className={className}>{children}</div>
+      <div className={className} style={desgin}>
+        {children}
+      </div>
     </>
   );
 };
@@ -11,6 +13,7 @@ const Cell = ({ children, className }) => {
 Cell.propTypes = {
   children: PropTypes.any,
   className: PropTypes.string,
+  desgin: PropTypes.any,
 };
 
 export default Cell;

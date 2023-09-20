@@ -1,13 +1,15 @@
 import { Link } from "react-router-dom";
-import Cell from "../components/Cell";
-import Chapter from "../components/Chapter";
-import Container from "../components/Container";
-import Major from "../components/Major";
-import Row from "../components/Row";
-import { details } from "../utils/constans";
-import Img from "../components/Img";
+import {
+  Cell,
+  Chapter,
+  Container,
+  Major,
+  Row,
+  Img,
+  Font,
+} from "../components/material/Index";
 
-import Font from "../components/Font";
+import { details } from "../utils/constans";
 
 const HomePage = () => {
   return (

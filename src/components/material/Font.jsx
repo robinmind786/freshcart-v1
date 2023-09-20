@@ -38,6 +38,11 @@ const Font = ({ variant, className, text, children }) => {
           {text}
           {children}
         </p>
+      ) : variant === "span" ? (
+        <span className={className}>
+          {text}
+          {children}
+        </span>
       ) : (
         <div className={className}>
           {text}

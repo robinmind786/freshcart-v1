@@ -743,7 +743,7 @@ progress {
   display: inline-block;
 }
 .list-inline-item:not(:last-child) {
-  margin-right: 0.5rem;
+  margin-right: 1.5rem;
 }
 .initialism {
   font-size: 0.875em;

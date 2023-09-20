@@ -1,7 +1,5 @@
 import { footers } from "../../utils/constans";
-import Cell from "../Cell";
-import Container from "../Container";
-import Row from "../Row";
+import { Cell, Container, Row } from "../material/Index";
 import FooterNav from "./FooterNav";
 
 const Footer = () => {

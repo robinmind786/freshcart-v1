@@ -1,7 +1,7 @@
 import PropTypes from "prop-types";
 
 import FooterNavTitle from "./FooterNavTitle";
-import Cell from "../Cell";
+import { Cell } from "../material/Index";
 import FooterNavLink from "./footerNavLink";
 
 const FooterNav = ({ title, sub }) => {
